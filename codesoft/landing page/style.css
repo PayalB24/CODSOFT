@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+    height : 67px;
+}
+.navbar li{
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.topleft{
+    width: 50%;
+    padding: 12px 0;
+}
+.topright{
+    width: 50%;
+    
+}
+.logo{
+    font-size: 1.3rem;
+    font:italic;
+}
+.section1{
+    max-height: 100vh;
+}
+.stethimg{
+    width: 89px;
+    margin-top: 0;
+    margin-bottom: -55px;
+    margin-left: 0;
+    margin-right: 160px;
+} 
+.docimg{
+    margin-left: 20px;
+    height: 400px;
+    width: 450px;
+ }
