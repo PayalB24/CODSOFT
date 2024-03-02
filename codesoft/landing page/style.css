@@ -31,6 +31,63 @@
 .section1{
     max-height: 100vh;
 }
+.section2 h2{
+    font-size: 2rem;
+}
+.box{
+    padding: 11px 1px;
+    margin: 11px 6px;
+    min-width: 15vw;
+    /* border: 1px solid rgb(61, 173, 134); */
+}
+.text-overlay {
+    position: absolute;
+    top: 95%;
+    left: 13%;
+    transform: translate(-21%, 60%);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: rgb(61, 173, 134);
+ }
+ .text-overlay1 {
+    position: absolute;
+    top: 95%;
+    left: 13%;
+    transform: translate(140%, 60%);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: rgb(27, 122, 89);
+ }
+ .text-overlay2 {
+    position: absolute;
+    top: 95%;
+    left: 13%;
+    transform: translate(235%, 60%);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: rgb(27, 122, 89);
+ }
+ .text-overlay3 {
+    position: absolute;
+    top:95%;
+    left: 13%;
+    transform: translate(320%, 60%);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: rgb(27, 122, 89);
+ }
+ .box-img{
+    height: 70px;
+    width: 50px;
+ }
+.mentalimg{
+    height: 250px;
+    width: 230px;
+}
 .stethimg{
     width: 89px;
     margin-top: 0;

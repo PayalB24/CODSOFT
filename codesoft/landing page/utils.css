@@ -39,7 +39,10 @@
     margin-top: 20px;
     margin-bottom: 23px;
 }
-
+.mytwo{
+    margin : 12px 12px;
+    color: rgb(17, 137, 131);
+}
 .pxtwo {
     padding-left: 13px;
     padding-right: 13px;
